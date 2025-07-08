@@ -67,33 +67,33 @@ By completing this project, you will:
 
 ## Design Goals
 
-- Create intuitive booking flow  
-- Maintain visual consistency  
-- Ensure fast loading times  
-- Prioritize mobile responsiveness  
+- **Intuitive Navigation:** Ensure users can easily find and access all features.
+- **Visual Clarity:** Use clean layouts, clear typography, and consistent color schemes.
+- **Responsiveness:** Design for seamless experience across devices (desktop, tablet, mobile).
+- **Accessibility:** Make the interface usable for people with disabilities.
+- **Trust & Security:** Build user confidence with secure, transparent interactions.
 
-## Key Features
+## Key Features to Implement
 
-- Property search and filtering  
-- Detailed property viewing  
-- Secure checkout process  
-- User authentication  
+- **Property Listings:** Display available properties with images, prices, and brief details.
+- **Search & Filters:** Allow users to search and filter properties by location, price, amenities, etc.
+- **Detailed Property View:** Show comprehensive information, images, and reviews for each property.
+- **Booking System:** Enable users to select dates, view pricing, and book properties.
+- **User Authentication:** Support sign-up, login, and profile management.
+- **Checkout Process:** Provide a simple, secure, and clear booking confirmation flow.
+- **Responsive Design:** Ensure all features work smoothly on any device.
 
----
+## Primary Pages Overview
 
-# Primary Pages
+| Page Name                | Description                                                                                  | Key Elements                                                                                   |
+|--------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Property Listing View    | Displays a grid or list of available properties for users to browse and filter.              | Search bar, filters, property cards (image, price, location, brief info), pagination.          |
+| Listing Detailed View    | Shows detailed information about a selected property, including images and booking options.  | Image gallery, property details, amenities, reviews, booking calendar, “Book Now” button.      |
+| Simple Checkout View     | Guides the user through the booking process and confirms the reservation.                    | Booking summary, user details, payment form, confirmation message, support contact info.       |
 
-| Page                   | Description                                                  |
-|------------------------|--------------------------------------------------------------|
-| Property Listing View  | Grid display of available properties with filters            |
-| Listing Detailed View  | Complete property details with images and booking form       |
-| Simple Checkout View   | Streamlined payment and booking confirmation                 |
+## Importance of a User-Friendly Design in a Booking System
 
----
-
-# Importance of User-Friendly Design
-
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+A user-friendly design is crucial in a booking system because it directly impacts user satisfaction, trust, and conversion rates. An intuitive interface reduces friction, making it easy for users to find properties, understand details, and complete bookings without confusion or frustration. Clear navigation, accessible features, and responsive layouts ensure that all users—including those on mobile devices or with disabilities—can successfully use the platform. Ultimately, a well-designed UI/UX builds confidence, encourages repeat usage, and minimizes errors or abandoned bookings, which are essential for the success of any booking platform.
 
 ---
 
