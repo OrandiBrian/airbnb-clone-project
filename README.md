@@ -73,6 +73,28 @@ By completing this project, you will:
 - **Accessibility:** Make the interface usable for people with disabilities.
 - **Trust & Security:** Build user confidence with secure, transparent interactions.
 
+## Importance of Identifying Design Properties in a Mockup Design
+
+Identifying design properties such as color styles and typography in a mockup is essential for ensuring visual consistency, brand alignment, and a cohesive user experience. These properties serve as the foundation for the application's look and feel, guiding developers and designers in implementing the interface accurately. Clear documentation of design properties helps maintain uniformity across all pages and components, reduces ambiguity during development, and streamlines collaboration between team members. Ultimately, it ensures that the final product matches the intended vision and delivers a professional, user-friendly experience.
+
+## Color Styles
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+## Typography
+- **Font Family:** Circular
+- **Font Weights:**
+  - Book (400)
+  - Medium (500)
+  - Bold (700)
+- **Font Sizes:**
+  - Primary Text: 16px
+  - Headings: 24px–32px
+  - Secondary Text: 14px
+
 ## Key Features to Implement
 
 - **Property Listings:** Display available properties with images, prices, and brief details.
