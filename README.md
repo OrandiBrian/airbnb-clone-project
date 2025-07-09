@@ -139,16 +139,37 @@ A user-friendly design is crucial in a booking system because it directly impact
 
 # Project Roles and Responsibilities
 
-| Role              | Responsibilities                                                                 |
-|-------------------|----------------------------------------------------------------------------------|
-| Project Manager    | Oversees timeline, coordinates team, manages deliverables                        |
-| Frontend Developers | Implements UI components, ensures responsive design                             |
-| Backend Developers  | Builds APIs, manages database, implements business logic                        |
-| Designers           | Creates mockups, maintains design system, ensures UX quality                    |
-| QA/Testers          | Writes test cases, performs testing, reports bugs                               |
-| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure                       |
-| Product Owner       | Defines requirements, prioritizes features, represents stakeholders             |
-| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings               |
+## Project Manager
+- **Key Responsibilities:** Oversees the project timeline, coordinates team activities, manages deliverables, and ensures milestones are met.
+- **Contribution:** Provides leadership, resolves conflicts, and keeps the project on track to meet goals and deadlines.
+
+## Frontend Developers
+- **Key Responsibilities:** Implement UI components, ensure responsive and accessible design, integrate APIs, and maintain code quality.
+- **Contribution:** Deliver a seamless, interactive user experience and ensure the application is visually appealing and functional across devices.
+
+## Backend Developers
+- **Key Responsibilities:** Build and maintain APIs, manage the database, implement business logic, and ensure data security.
+- **Contribution:** Enable core application functionality, data management, and secure user interactions.
+
+## Designers
+- **Key Responsibilities:** Create mockups, maintain the design system, define visual styles, and ensure a high-quality user experience.
+- **Contribution:** Shape the look and feel of the application, ensuring consistency and usability throughout the product.
+
+## QA/Testers
+- **Key Responsibilities:** Write and execute test cases, perform manual and automated testing, and report bugs.
+- **Contribution:** Ensure the application is reliable, bug-free, and meets quality standards before release.
+
+## DevOps Engineers
+- **Key Responsibilities:** Manage deployment pipelines, configure servers, monitor application performance, and maintain CI/CD processes.
+- **Contribution:** Ensure smooth, reliable deployments and maintain the infrastructure for continuous development and delivery.
+
+## Product Owner
+- **Key Responsibilities:** Define project requirements, prioritize features, and represent stakeholder interests.
+- **Contribution:** Aligns the project with business goals and user needs, ensuring the team builds the right product.
+
+## Scrum Master
+- **Key Responsibilities:** Facilitate agile processes, remove blockers, organize meetings, and support team productivity.
+- **Contribution:** Promotes efficient teamwork, continuous improvement, and helps the team deliver value incrementally.
 
 ---
 
